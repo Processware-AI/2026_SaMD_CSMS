@@ -1,0 +1,35 @@
+# _state.yaml 템플릿 — 파이프라인 시작 시 이 포맷으로 생성
+# 상세 규약: [[06_파이프라인_상태규약]]
+
+standard: "{{표준코드}}"
+pipeline_version: "1.0"
+created: "{{ISO8601_now}}"
+updated: "{{ISO8601_now}}"
+overall_status: "pending"
+current_phase: "preflight"
+attempts: 1
+max_attempts: 3
+
+phases:
+  preflight:
+    status: pending
+    agent: orchestrator
+  analyze:
+    status: pending
+    agent: standard-analyzer
+  design:
+    status: pending
+    agent: process-designer
+  write:
+    status: pending
+    agent: wi-tmp-writer
+  trace:
+    status: pending
+    agent: traceability-mapper
+  qa:
+    status: pending
+    agent: qa-reviewer
+
+history: []
+
+qa_failures: []
