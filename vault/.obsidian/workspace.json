@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "6d39ddb060c97da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bde5b1232c9b9f3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66e5259076f3e56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90_MAT_통합매핑/MAT-011_SaMD-CSMS_추적성_v1.0.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MAT-011_SaMD-CSMS_추적성_v1.0"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01fa60735f82e21f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dbd337f8f5c6227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95ddf53889edc55f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "bcda740fd41e29e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "568d2045b3dd8016",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423.5
+  },
+  "right": {
+    "id": "db65db44448dfe3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "049ed25643f5cfc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5598b9bae42b9c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "05_WI_업무지침/WI-403-05_개인정보_비식별화_v0.1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "WI-403-05_개인정보_비식별화_v0.1 의 백링크"
+            }
+          },
+          {
+            "id": "332bdd73dc157d43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "05_WI_업무지침/WI-403-05_개인정보_비식별화_v0.1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "WI-403-05_개인정보_비식별화_v0.1 의 나가는 링크"
+            }
+          },
+          {
+            "id": "c3883cda2eef2517",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "b810b0a82b02a4b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "cba22cd73b587872",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_WI_업무지침/WI-403-05_개인정보_비식별화_v0.1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "WI-403-05_개인정보_비식별화_v0.1 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "66e5259076f3e56a",
+  "lastOpenFiles": [
+    "04_PRO_절차/PRO-MDCS-101_보안_문서화_관리_절차_v1.0.md",
+    "04_PRO_절차/PRO-MDCS-201_사이버보안_리스크_관리_절차_v1.0.md",
+    "02_표준/SaMD-CSMS/01_SaMD-CSMS_요구사항분해.md",
+    "01_구성원칙/표준프로세스_구성원칙.md",
+    "WI-101-02_문서_갱신_및_폐기_v0.1.md",
+    "06_TMP_템플릿/TMP-ACC-001_권한_신청서_v0.1.md",
+    "08_REC_기록/README.md",
+    "99_템플릿/_골든샘플/GS-WI-401-04_개정_및_버전관리.md",
+    "99_템플릿/_골든샘플/GS-PRO-QMS-102_문서_개정_관리_절차.md",
+    "99_템플릿/_골든샘플/GS-POL-QMS-002_문서화된정보_관리_정책.md",
+    "05_WI_업무지침/WI-101-01_보안문서_등록_v0.1.md",
+    "04_PRO_절차/PRO-MDCS-402_보안_통신_및_암호화_관리_절차_v1.0.md",
+    "04_PRO_절차/PRO-MDCS-401_접근통제_및_인증_관리_절차_v1.0.md",
+    "05_WI_업무지침/WI-401-01_계정_생명주기_v0.1.md",
+    "05_WI_업무지침/WI-403-05_개인정보_비식별화_v0.1.md",
+    "05_WI_업무지침/WI-101-03_증적_수집_기준_v0.1.md",
+    "05_WI_업무지침/WI-502-02_대외신고_식약처_MSP_이용자_v0.1.md",
+    "00_MOC/MOC_전체표준.md"
+  ]
+}

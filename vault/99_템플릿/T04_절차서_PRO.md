@@ -29,7 +29,7 @@ tags: [PRO, "{{표준코드}}"]
 
 ## 4. 절차 흐름
 ```mermaid
-flowchart LR
+flowchart TD
   A[시작] --> B[단계1] --> C[단계2] --> D[종료]
 ```
 

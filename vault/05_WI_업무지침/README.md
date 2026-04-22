@@ -22,7 +22,7 @@ tags: [folder-readme, WI]
 ```
 WI-{상위PRO번호}-{##}_{이름}_v{버전}.md
 ```
-예: `WI-102-04_개정_및_버전관리_v1.0.md`
+예: `WI-401-04_개정_및_버전관리_v1.0.md`
 
 ## Frontmatter 필수
 `type`, `doc_id`, `title`, `version`, `owner`, `parent_pro`, `related_tmp`, `related_rec`, `standards`, `status`
@@ -30,7 +30,7 @@ WI-{상위PRO번호}-{##}_{이름}_v{버전}.md
 ## 필수 섹션 (골든샘플 준수)
 업무 목적 / 수행 주체 / 범위 / Input·Output / 수행 단계(5.1 사전 5.2 수행 5.3 완료조건) / 인터페이스 부서 / 예외 처리(2개 이상) / 연계 TMP·EX·REC / 출처 / 개정 이력
 
-참조: [[GS-WI-102-04_개정_및_버전관리]]
+참조: [[GS-WI-401-04_개정_및_버전관리]]
 
 ## 판단 기준
 > "이 문서를 읽고 **담당자가 실제로 어떻게 수행해야 하는가** 가 보이면 WI"
