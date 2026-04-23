@@ -5,7 +5,7 @@ title: "HSM 접근 감사 로그"
 version: "0.1"
 owner: "보안 담당자"
 parent_wi: "[[WI-402-05_HSM_KMS_운영_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-KMS-002_HSM_접근_감사_로그_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, KMS]
 
 # HSM 접근 감사 로그 (TMP-KMS-002)
 
-> 상위 업무지침: [[WI-402-05_HSM_KMS_운영_v0.1]]
+> 상위 업무지침: [[WI-402-05_HSM_KMS_운영_v0.1]] · 작성예시: [[EX-KMS-002_HSM_접근_감사_로그_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -53,3 +53,5 @@ tags: [TMP, MDCS, SaMD-CSMS, KMS]
 작성자 서명: __________________ 일자: __________________
 
 검토자 서명: __________________ 일자: __________________
+
+작성예시: [[EX-KMS-002_HSM_접근_감사_로그_작성예시_v0.1]]

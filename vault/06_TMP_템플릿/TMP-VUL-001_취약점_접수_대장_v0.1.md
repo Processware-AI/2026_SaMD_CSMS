@@ -5,7 +5,7 @@ title: "취약점 접수 대장"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-601-01_취약점_감시_및_접수_v0.1]]"
-related_ex: "[[EX-VUL-001_취약점_접수_대장_작성예시]]"
+related_ex: "[[EX-VUL-001_취약점_접수_대장_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, vulnerability]
 
 # 취약점 접수 대장 (TMP-VUL-001)
 
-> 상위 업무지침: [[WI-601-01_취약점_감시_및_접수_v0.1]] · 작성예시: [[EX-VUL-001_취약점_접수_대장_작성예시]]
+> 상위 업무지침: [[WI-601-01_취약점_감시_및_접수_v0.1]] · 작성예시: [[EX-VUL-001_취약점_접수_대장_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -47,4 +47,4 @@ tags: [TMP, MDCS, SaMD-CSMS, vulnerability]
 
 ---
 
-작성예시: [[EX-VUL-001_취약점_접수_대장_작성예시]]
+작성예시: [[EX-VUL-001_취약점_접수_대장_작성예시_v0.1]]

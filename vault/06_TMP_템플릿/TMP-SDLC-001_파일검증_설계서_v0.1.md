@@ -5,7 +5,7 @@ title: "파일검증 설계서"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-403-01_파일_업다운로드_검증_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-SDLC-001_파일검증_설계서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC, file-validation]
 
 # 파일검증 설계서 (TMP-SDLC-001)
 
-> 상위 업무지침: [[WI-403-01_파일_업다운로드_검증_v0.1]]
+> 상위 업무지침: [[WI-403-01_파일_업다운로드_검증_v0.1]] · 작성예시: [[EX-SDLC-001_파일검증_설계서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -38,3 +38,5 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC, file-validation]
 | 차단 응답 정책 |  |
 
 ---
+
+작성예시: [[EX-SDLC-001_파일검증_설계서_작성예시_v0.1]]

@@ -5,7 +5,7 @@ title: "릴리스 보안 게이트 체크리스트"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-201-07_릴리스_보안_게이트_v0.1]]"
-related_ex: "[[EX-SDLC-003_릴리스_보안_게이트_체크리스트_작성예시]]"
+related_ex: "[[EX-SDLC-003_릴리스_보안_게이트_체크리스트_작성예시_v0.1]]"
 standards: ["SaMD-CSMS", "IEC 81001-5-1"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC, release-gate]
 
 # 릴리스 보안 게이트 체크리스트 (TMP-SDLC-003)
 
-> 상위 업무지침: [[WI-201-07_릴리스_보안_게이트_v0.1]] · 작성예시: [[EX-SDLC-003_릴리스_보안_게이트_체크리스트_작성예시]]
+> 상위 업무지침: [[WI-201-07_릴리스_보안_게이트_v0.1]] · 작성예시: [[EX-SDLC-003_릴리스_보안_게이트_체크리스트_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -72,4 +72,4 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC, release-gate]
 
 ---
 
-작성예시: [[EX-SDLC-003_릴리스_보안_게이트_체크리스트_작성예시]]
+작성예시: [[EX-SDLC-003_릴리스_보안_게이트_체크리스트_작성예시_v0.1]]

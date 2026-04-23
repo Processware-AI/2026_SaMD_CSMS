@@ -5,7 +5,7 @@ title: "암호키 인벤토리"
 version: "0.1"
 owner: "KMS Admin"
 parent_wi: "[[WI-402-04_암호키_수명주기_v0.1]]"
-related_ex: "[[EX-NET-003_암호키_인벤토리_작성예시]]"
+related_ex: "[[EX-NET-003_암호키_인벤토리_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, crypto, KMS]
 
 # 암호키 인벤토리 (TMP-NET-003)
 
-> 상위 업무지침: [[WI-402-04_암호키_수명주기_v0.1]] · 작성예시: [[EX-NET-003_암호키_인벤토리_작성예시]]
+> 상위 업무지침: [[WI-402-04_암호키_수명주기_v0.1]] · 작성예시: [[EX-NET-003_암호키_인벤토리_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -51,4 +51,4 @@ tags: [TMP, MDCS, SaMD-CSMS, crypto, KMS]
 
 ---
 
-작성예시: [[EX-NET-003_암호키_인벤토리_작성예시]]
+작성예시: [[EX-NET-003_암호키_인벤토리_작성예시_v0.1]]

@@ -5,7 +5,7 @@ title: "예외 승인서"
 version: "0.1"
 owner: "인프라팀"
 parent_wi: "[[WI-501-02_시스템_하드닝_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-OPS-011_예외_승인서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, hardening, 예외승인]
 
 # 예외 승인서 (TMP-OPS-011)
 
-> 상위 업무지침: [[WI-501-02_시스템_하드닝_v0.1]]
+> 상위 업무지침: [[WI-501-02_시스템_하드닝_v0.1]] · 작성예시: [[EX-OPS-011_예외_승인서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -114,3 +114,5 @@ tags: [TMP, MDCS, SaMD-CSMS, hardening, 예외승인]
 - [ ] 예외 레지스트리에 본 건이 등록되었다
 - [ ] 재검토 일정이 캘린더에 등록되었다
 - [ ] 보완 통제 적용이 완료되고 증적이 확보되었다
+
+작성예시: [[EX-OPS-011_예외_승인서_작성예시_v0.1]]

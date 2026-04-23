@@ -5,7 +5,7 @@ title: "로그분석 보고서"
 version: "0.1"
 owner: "SecOps 팀장"
 parent_wi: "[[WI-501-06_로그_관리_및_분석_v0.1]]"
-related_ex: "[[EX-LOG-003_로그분석_보고서_작성예시]]"
+related_ex: "[[EX-LOG-003_로그분석_보고서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, logging]
 
 # 로그분석 보고서 (TMP-LOG-003)
 
-> 상위 업무지침: [[WI-501-06_로그_관리_및_분석_v0.1]] · 작성예시: [[EX-LOG-003_로그분석_보고서_작성예시]]
+> 상위 업무지침: [[WI-501-06_로그_관리_및_분석_v0.1]] · 작성예시: [[EX-LOG-003_로그분석_보고서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -69,4 +69,4 @@ tags: [TMP, MDCS, SaMD-CSMS, logging]
 
 ---
 
-작성예시: [[EX-LOG-003_로그분석_보고서_작성예시]]
+작성예시: [[EX-LOG-003_로그분석_보고서_작성예시_v0.1]]

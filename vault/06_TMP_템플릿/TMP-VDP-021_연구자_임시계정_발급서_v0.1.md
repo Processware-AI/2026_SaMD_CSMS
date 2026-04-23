@@ -5,7 +5,7 @@ title: "연구자 임시계정 발급서"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-601-02_VDP_운영_외부연구자_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-VDP-021_연구자_임시계정_발급서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, VDP, account]
 
 # 연구자 임시계정 발급서 (TMP-VDP-021)
 
-> 상위 업무지침: [[WI-601-02_VDP_운영_외부연구자_v0.1]]
+> 상위 업무지침: [[WI-601-02_VDP_운영_외부연구자_v0.1]] · 작성예시: [[EX-VDP-021_연구자_임시계정_발급서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -45,3 +45,5 @@ tags: [TMP, MDCS, SaMD-CSMS, VDP, account]
 | 회수 확인자 |  |
 
 ---
+
+작성예시: [[EX-VDP-021_연구자_임시계정_발급서_작성예시_v0.1]]

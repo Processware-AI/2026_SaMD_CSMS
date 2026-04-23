@@ -5,7 +5,7 @@ title: "STRIDE 위협모델링 워크시트"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-301-01_STRIDE_위협모델링_v0.1]]"
-related_ex: "[[EX-RISK-001_STRIDE_워크시트_작성예시]]"
+related_ex: "[[EX-RISK-001_STRIDE_워크시트_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, STRIDE, risk]
 
 # STRIDE 위협모델링 워크시트 (TMP-RISK-001)
 
-> 상위 업무지침: [[WI-301-01_STRIDE_위협모델링_v0.1]] · 작성예시: [[EX-RISK-001_STRIDE_워크시트_작성예시]]
+> 상위 업무지침: [[WI-301-01_STRIDE_위협모델링_v0.1]] · 작성예시: [[EX-RISK-001_STRIDE_워크시트_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -55,4 +55,4 @@ tags: [TMP, MDCS, SaMD-CSMS, STRIDE, risk]
 
 ---
 
-작성예시: [[EX-RISK-001_STRIDE_워크시트_작성예시]]
+작성예시: [[EX-RISK-001_STRIDE_워크시트_작성예시_v0.1]]

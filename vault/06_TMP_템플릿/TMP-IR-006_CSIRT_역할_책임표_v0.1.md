@@ -5,7 +5,7 @@ title: "CSIRT 역할·책임표"
 version: "0.1"
 owner: "CSIRT 리더"
 parent_wi: "[[WI-502-05_CSIRT_구성_및_훈련_v0.1]]"
-related_ex: "[[EX-IR-006_CSIRT_역할_책임표_작성예시]]"
+related_ex: "[[EX-IR-006_CSIRT_역할_책임표_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, CSIRT, 역할, 책임]
 
 # CSIRT 역할·책임표 (TMP-IR-006)
 
-> 상위 업무지침: [[WI-502-05_CSIRT_구성_및_훈련_v0.1]] · 작성예시: [[EX-IR-006_CSIRT_역할_책임표_작성예시]]
+> 상위 업무지침: [[WI-502-05_CSIRT_구성_및_훈련_v0.1]] · 작성예시: [[EX-IR-006_CSIRT_역할_책임표_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -86,4 +86,4 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, CSIRT, 역할, 책임]
 
 ---
 
-작성예시: [[EX-IR-006_CSIRT_역할_책임표_작성예시]]
+작성예시: [[EX-IR-006_CSIRT_역할_책임표_작성예시_v0.1]]

@@ -5,7 +5,7 @@ title: "증적 목록표"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-101-03_증적_수집_기준_v0.1]]"
-related_ex: "[[EX-DOC-002_증적_목록표_작성예시]]"
+related_ex: "[[EX-DOC-002_증적_목록표_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, evidence]
 
 # 증적 목록표 (TMP-DOC-002)
 
-> 상위 업무지침: [[WI-101-03_증적_수집_기준_v0.1]] · 작성예시: [[EX-DOC-002_증적_목록표_작성예시]]
+> 상위 업무지침: [[WI-101-03_증적_수집_기준_v0.1]] · 작성예시: [[EX-DOC-002_증적_목록표_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -53,4 +53,4 @@ tags: [TMP, MDCS, SaMD-CSMS, evidence]
 
 ---
 
-작성예시: [[EX-DOC-002_증적_목록표_작성예시]]
+작성예시: [[EX-DOC-002_증적_목록표_작성예시_v0.1]]

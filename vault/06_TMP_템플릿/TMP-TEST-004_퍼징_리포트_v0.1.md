@@ -5,7 +5,7 @@ title: "퍼징 리포트"
 version: "0.1"
 owner: "보안 테스트 담당자"
 parent_wi: "[[WI-301-04_Fuzzing_퍼징_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-TEST-004_퍼징_리포트_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, TEST, Fuzzing]
 
 # 퍼징 리포트 (TMP-TEST-004)
 
-> 상위 업무지침: [[WI-301-04_Fuzzing_퍼징_v0.1]]
+> 상위 업무지침: [[WI-301-04_Fuzzing_퍼징_v0.1]] · 작성예시: [[EX-TEST-004_퍼징_리포트_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -86,3 +86,5 @@ tags: [TMP, MDCS, SaMD-CSMS, TEST, Fuzzing]
 작성자 서명: __________________ 일자: __________________
 
 검토자 서명: __________________ 일자: __________________
+
+작성예시: [[EX-TEST-004_퍼징_리포트_작성예시_v0.1]]

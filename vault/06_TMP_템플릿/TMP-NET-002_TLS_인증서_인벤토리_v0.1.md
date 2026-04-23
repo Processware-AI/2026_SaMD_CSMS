@@ -5,7 +5,7 @@ title: "TLS 인증서 인벤토리"
 version: "0.1"
 owner: "인프라팀장"
 parent_wi: "[[WI-402-03_통신_암호화_v0.1]]"
-related_ex: "[[EX-NET-002_TLS_인증서_인벤토리_작성예시]]"
+related_ex: "[[EX-NET-002_TLS_인증서_인벤토리_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, TLS]
 
 # TLS 인증서 인벤토리 (TMP-NET-002)
 
-> 상위 업무지침: [[WI-402-03_통신_암호화_v0.1]] · 작성예시: [[EX-NET-002_TLS_인증서_인벤토리_작성예시]]
+> 상위 업무지침: [[WI-402-03_통신_암호화_v0.1]] · 작성예시: [[EX-NET-002_TLS_인증서_인벤토리_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -50,4 +50,4 @@ tags: [TMP, MDCS, SaMD-CSMS, TLS]
 
 ---
 
-작성예시: [[EX-NET-002_TLS_인증서_인벤토리_작성예시]]
+작성예시: [[EX-NET-002_TLS_인증서_인벤토리_작성예시_v0.1]]

@@ -5,7 +5,7 @@ title: "문서 개정 요청서"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-101-02_문서_갱신_및_폐기_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-DOC-003_문서_개정_요청서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, DOC]
 
 # 문서 개정 요청서 (TMP-DOC-003)
 
-> 상위 업무지침: [[WI-101-02_문서_갱신_및_폐기_v0.1]]
+> 상위 업무지침: [[WI-101-02_문서_갱신_및_폐기_v0.1]] · 작성예시: [[EX-DOC-003_문서_개정_요청서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -50,3 +50,5 @@ tags: [TMP, MDCS, SaMD-CSMS, DOC]
 | 승인자 |  |  |  |
 
 ---
+
+작성예시: [[EX-DOC-003_문서_개정_요청서_작성예시_v0.1]]

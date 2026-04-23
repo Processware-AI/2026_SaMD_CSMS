@@ -5,7 +5,7 @@ title: "위험 평가 보고서"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-301-03_위험_평가_보고서_작성_v0.1]]"
-related_ex: "[[EX-RISK-002_위험평가_보고서_작성예시]]"
+related_ex: "[[EX-RISK-002_위험평가_보고서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS", "ISO 14971"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, risk]
 
 # 위험 평가 보고서 (TMP-RISK-002)
 
-> 상위 업무지침: [[WI-301-03_위험_평가_보고서_작성_v0.1]] · 작성예시: [[EX-RISK-002_위험평가_보고서_작성예시]]
+> 상위 업무지침: [[WI-301-03_위험_평가_보고서_작성_v0.1]] · 작성예시: [[EX-RISK-002_위험평가_보고서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -79,4 +79,4 @@ tags: [TMP, MDCS, SaMD-CSMS, risk]
 
 ---
 
-작성예시: [[EX-RISK-002_위험평가_보고서_작성예시]]
+작성예시: [[EX-RISK-002_위험평가_보고서_작성예시_v0.1]]

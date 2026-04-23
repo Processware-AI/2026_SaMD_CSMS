@@ -5,7 +5,7 @@ title: "포렌식 분석 보고서"
 version: "0.1"
 owner: "CSIRT 리더"
 parent_wi: "[[WI-502-03_격리_및_복구_포렌식_v0.1]]"
-related_ex: "[[EX-IR-004_포렌식_분석보고서_작성예시]]"
+related_ex: "[[EX-IR-004_포렌식_분석보고서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS", "ISO/IEC 27037"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, forensics]
 
 # 포렌식 분석 보고서 (TMP-IR-004)
 
-> 상위 업무지침: [[WI-502-03_격리_및_복구_포렌식_v0.1]] · 작성예시: [[EX-IR-004_포렌식_분석보고서_작성예시]]
+> 상위 업무지침: [[WI-502-03_격리_및_복구_포렌식_v0.1]] · 작성예시: [[EX-IR-004_포렌식_분석보고서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -72,4 +72,4 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, forensics]
 
 ---
 
-작성예시: [[EX-IR-004_포렌식_분석보고서_작성예시]]
+작성예시: [[EX-IR-004_포렌식_분석보고서_작성예시_v0.1]]

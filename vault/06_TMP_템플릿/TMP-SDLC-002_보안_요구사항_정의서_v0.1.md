@@ -5,7 +5,7 @@ title: "보안 요구사항 정의서"
 version: "0.1"
 owner: "Product Manager (PM)"
 parent_wi: "[[WI-201-01_보안_요구사항_정의_v0.1]]"
-related_ex: "[[EX-SDLC-002_보안_요구사항_정의서_작성예시]]"
+related_ex: "[[EX-SDLC-002_보안_요구사항_정의서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC]
 
 # 보안 요구사항 정의서 (TMP-SDLC-002)
 
-> 상위 업무지침: [[WI-201-01_보안_요구사항_정의_v0.1]] · 작성예시: [[EX-SDLC-002_보안_요구사항_정의서_작성예시]]
+> 상위 업무지침: [[WI-201-01_보안_요구사항_정의_v0.1]] · 작성예시: [[EX-SDLC-002_보안_요구사항_정의서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -60,4 +60,4 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC]
 
 ---
 
-작성예시: [[EX-SDLC-002_보안_요구사항_정의서_작성예시]]
+작성예시: [[EX-SDLC-002_보안_요구사항_정의서_작성예시_v0.1]]

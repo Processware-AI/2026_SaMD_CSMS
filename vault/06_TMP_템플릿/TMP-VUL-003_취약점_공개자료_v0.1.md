@@ -5,7 +5,7 @@ title: "취약점 공개 자료(Advisory)"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-601-04_홈페이지_공개_및_조정공개_v0.1]]"
-related_ex: "[[EX-VUL-003_취약점_공개자료_작성예시]]"
+related_ex: "[[EX-VUL-003_취약점_공개자료_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, vulnerability]
 
 # 취약점 공개 자료 (TMP-VUL-003)
 
-> 상위 업무지침: [[WI-601-04_홈페이지_공개_및_조정공개_v0.1]] · 작성예시: [[EX-VUL-003_취약점_공개자료_작성예시]]
+> 상위 업무지침: [[WI-601-04_홈페이지_공개_및_조정공개_v0.1]] · 작성예시: [[EX-VUL-003_취약점_공개자료_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -79,4 +79,4 @@ tags: [TMP, MDCS, SaMD-CSMS, vulnerability]
 
 ---
 
-작성예시: [[EX-VUL-003_취약점_공개자료_작성예시]]
+작성예시: [[EX-VUL-003_취약점_공개자료_작성예시_v0.1]]

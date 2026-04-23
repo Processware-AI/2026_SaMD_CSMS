@@ -5,7 +5,7 @@ title: "MFA 등록대장"
 version: "0.1"
 owner: "IAM 관리자"
 parent_wi: "[[WI-401-03_MFA_및_패스워드_정책_v0.1]]"
-related_ex: "[[EX-ACC-003_MFA_등록대장_작성예시]]"
+related_ex: "[[EX-ACC-003_MFA_등록대장_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, MFA]
 
 # MFA 등록대장 (TMP-ACC-003)
 
-> 상위 업무지침: [[WI-401-03_MFA_및_패스워드_정책_v0.1]] · 작성예시: [[EX-ACC-003_MFA_등록대장_작성예시]]
+> 상위 업무지침: [[WI-401-03_MFA_및_패스워드_정책_v0.1]] · 작성예시: [[EX-ACC-003_MFA_등록대장_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -55,4 +55,4 @@ tags: [TMP, MDCS, SaMD-CSMS, MFA]
 
 ---
 
-작성예시: [[EX-ACC-003_MFA_등록대장_작성예시]]
+작성예시: [[EX-ACC-003_MFA_등록대장_작성예시_v0.1]]

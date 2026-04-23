@@ -5,7 +5,7 @@ title: "EOS 공지서"
 version: "0.1"
 owner: "Product Manager (PM)"
 parent_wi: "[[WI-303-02_EOS_일정_지원계획_공지_v0.1]]"
-related_ex: "[[EX-EOS-001_EOS_공지서_작성예시]]"
+related_ex: "[[EX-EOS-001_EOS_공지서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, EOS]
 
 # EOS 공지서 (TMP-EOS-001)
 
-> 상위 업무지침: [[WI-303-02_EOS_일정_지원계획_공지_v0.1]] · 작성예시: [[EX-EOS-001_EOS_공지서_작성예시]]
+> 상위 업무지침: [[WI-303-02_EOS_일정_지원계획_공지_v0.1]] · 작성예시: [[EX-EOS-001_EOS_공지서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -88,4 +88,4 @@ tags: [TMP, MDCS, SaMD-CSMS, EOS]
 
 ---
 
-작성예시: [[EX-EOS-001_EOS_공지서_작성예시]]
+작성예시: [[EX-EOS-001_EOS_공지서_작성예시_v0.1]]

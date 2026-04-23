@@ -5,7 +5,7 @@ title: "FIM 모니터링 대장"
 version: "0.1"
 owner: "SecOps팀"
 parent_wi: "[[WI-501-03_무결성_검증_FIM_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-OPS-020_FIM_모니터링_대장_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, FIM, 무결성검증, 모니터링]
 
 # FIM 모니터링 대장 (TMP-OPS-020)
 
-> 상위 업무지침: [[WI-501-03_무결성_검증_FIM_v0.1]]
+> 상위 업무지침: [[WI-501-03_무결성_검증_FIM_v0.1]] · 작성예시: [[EX-OPS-020_FIM_모니터링_대장_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -84,3 +84,5 @@ tags: [TMP, MDCS, SaMD-CSMS, FIM, 무결성검증, 모니터링]
 ---
 
 연계 템플릿: [[TMP-OPS-021_FIM_알림_처리_기록_v0.1]]
+
+작성예시: [[EX-OPS-020_FIM_모니터링_대장_작성예시_v0.1]]

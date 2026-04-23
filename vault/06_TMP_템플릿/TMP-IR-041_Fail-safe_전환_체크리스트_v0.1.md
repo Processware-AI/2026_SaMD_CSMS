@@ -5,7 +5,7 @@ title: "Fail-safe 전환 체크리스트"
 version: "0.1"
 owner: "개발팀 기술 담당"
 parent_wi: "[[WI-502-04_BCP_및_Fail-safe_v0.1]]"
-related_ex: "[[EX-IR-041_Fail-safe_전환_체크리스트_작성예시]]"
+related_ex: "[[EX-IR-041_Fail-safe_전환_체크리스트_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, BCP, Fail-safe, 의료기기, 침해사고대응]
 
 # Fail-safe 전환 체크리스트 (TMP-IR-041)
 
-> 상위 업무지침: [[WI-502-04_BCP_및_Fail-safe_v0.1]] · 작성예시: [[EX-IR-041_Fail-safe_전환_체크리스트_작성예시]]
+> 상위 업무지침: [[WI-502-04_BCP_및_Fail-safe_v0.1]] · 작성예시: [[EX-IR-041_Fail-safe_전환_체크리스트_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -94,4 +94,4 @@ tags: [TMP, MDCS, SaMD-CSMS, BCP, Fail-safe, 의료기기, 침해사고대응]
 
 ---
 
-작성예시: [[EX-IR-041_Fail-safe_전환_체크리스트_작성예시]]
+작성예시: [[EX-IR-041_Fail-safe_전환_체크리스트_작성예시_v0.1]]

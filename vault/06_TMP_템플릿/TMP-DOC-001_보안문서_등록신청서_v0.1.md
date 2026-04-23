@@ -5,7 +5,7 @@ title: "보안문서 등록신청서"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 parent_wi: "[[WI-101-01_보안문서_등록_v0.1]]"
-related_ex: "[[EX-DOC-001_보안문서_등록신청서_작성예시]]"
+related_ex: "[[EX-DOC-001_보안문서_등록신청서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, documentation]
 
 # 보안문서 등록신청서 (TMP-DOC-001)
 
-> 상위 업무지침: [[WI-101-01_보안문서_등록_v0.1]] · 작성예시: [[EX-DOC-001_보안문서_등록신청서_작성예시]]
+> 상위 업무지침: [[WI-101-01_보안문서_등록_v0.1]] · 작성예시: [[EX-DOC-001_보안문서_등록신청서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다. 예시 값을 기입하지 마세요(예시는 EX 로 분리).
 
@@ -75,4 +75,4 @@ tags: [TMP, MDCS, SaMD-CSMS, documentation]
 
 ---
 
-작성예시: [[EX-DOC-001_보안문서_등록신청서_작성예시]]
+작성예시: [[EX-DOC-001_보안문서_등록신청서_작성예시_v0.1]]

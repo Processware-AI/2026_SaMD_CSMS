@@ -5,7 +5,7 @@ title: "권한 검토 대장"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-401-01_계정_생명주기_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-ACC-002_권한_검토_대장_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, ACC, access-control]
 
 # 권한 검토 대장 (TMP-ACC-002)
 
-> 상위 업무지침: [[WI-401-01_계정_생명주기_v0.1]]
+> 상위 업무지침: [[WI-401-01_계정_생명주기_v0.1]] · 작성예시: [[EX-ACC-002_권한_검토_대장_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -34,3 +34,5 @@ tags: [TMP, MDCS, SaMD-CSMS, ACC, access-control]
 |  |  |  | `<유지/회수/수정>` |  |
 
 ---
+
+작성예시: [[EX-ACC-002_권한_검토_대장_작성예시_v0.1]]

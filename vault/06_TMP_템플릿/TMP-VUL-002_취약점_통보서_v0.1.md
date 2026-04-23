@@ -5,7 +5,7 @@ title: "취약점 통보서"
 version: "0.1"
 owner: "RA 리드"
 parent_wi: "[[WI-601-03_식약처_MSP_통보_v0.1]]"
-related_ex: "[[EX-VUL-002_취약점_통보서_작성예시]]"
+related_ex: "[[EX-VUL-002_취약점_통보서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, vulnerability, reporting]
 
 # 취약점 통보서 (TMP-VUL-002)
 
-> 상위 업무지침: [[WI-601-03_식약처_MSP_통보_v0.1]] · 작성예시: [[EX-VUL-002_취약점_통보서_작성예시]]
+> 상위 업무지침: [[WI-601-03_식약처_MSP_통보_v0.1]] · 작성예시: [[EX-VUL-002_취약점_통보서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -91,4 +91,4 @@ tags: [TMP, MDCS, SaMD-CSMS, vulnerability, reporting]
 
 ---
 
-작성예시: [[EX-VUL-002_취약점_통보서_작성예시]]
+작성예시: [[EX-VUL-002_취약점_통보서_작성예시_v0.1]]

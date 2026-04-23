@@ -5,7 +5,7 @@ title: "실행파일 차단 예외 신청서"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-403-02_실행파일_차단_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-DEV-021_실행파일_차단_예외_신청서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, DEV, executable, whitelist]
 
 # 실행파일 차단 예외 신청서 (TMP-DEV-021)
 
-> 상위 업무지침: [[WI-403-02_실행파일_차단_v0.1]]
+> 상위 업무지침: [[WI-403-02_실행파일_차단_v0.1]] · 작성예시: [[EX-DEV-021_실행파일_차단_예외_신청서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -50,3 +50,5 @@ tags: [TMP, MDCS, SaMD-CSMS, DEV, executable, whitelist]
 | 승인자 |  |  |  |
 
 ---
+
+작성예시: [[EX-DEV-021_실행파일_차단_예외_신청서_작성예시_v0.1]]

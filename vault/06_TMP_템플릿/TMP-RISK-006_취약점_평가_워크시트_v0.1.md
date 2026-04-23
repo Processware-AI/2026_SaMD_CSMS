@@ -5,7 +5,7 @@ title: "취약점 평가 워크시트"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-201-02_취약점_평가_스캐닝_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-RISK-006_취약점_평가_워크시트_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, RISK, vulnerability]
 
 # 취약점 평가 워크시트 (TMP-RISK-006)
 
-> 상위 업무지침: [[WI-201-02_취약점_평가_스캐닝_v0.1]]
+> 상위 업무지침: [[WI-201-02_취약점_평가_스캐닝_v0.1]] · 작성예시: [[EX-RISK-006_취약점_평가_워크시트_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -35,3 +35,5 @@ tags: [TMP, MDCS, SaMD-CSMS, RISK, vulnerability]
 |  |  |  | `<Critical/High/Medium/Low>` |  | `<있음/없음/미확인>` | `<긴급/높음/보통/낮음>` |  |
 
 ---
+
+작성예시: [[EX-RISK-006_취약점_평가_워크시트_작성예시_v0.1]]

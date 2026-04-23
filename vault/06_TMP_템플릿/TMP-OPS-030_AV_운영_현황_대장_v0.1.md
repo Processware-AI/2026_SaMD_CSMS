@@ -5,7 +5,7 @@ title: "AV 운영 현황 대장"
 version: "0.1"
 owner: "SecOps팀"
 parent_wi: "[[WI-501-05_안티바이러스_운영_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-OPS-030_AV_운영_현황_대장_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, AV, 안티바이러스, 운영현황]
 
 # AV 운영 현황 대장 (TMP-OPS-030)
 
-> 상위 업무지침: [[WI-501-05_안티바이러스_운영_v0.1]]
+> 상위 업무지침: [[WI-501-05_안티바이러스_운영_v0.1]] · 작성예시: [[EX-OPS-030_AV_운영_현황_대장_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -78,3 +78,5 @@ tags: [TMP, MDCS, SaMD-CSMS, AV, 안티바이러스, 운영현황]
 ---
 
 연계 템플릿: [[TMP-OPS-031_AV_탐지_대응_기록_v0.1]]
+
+작성예시: [[EX-OPS-030_AV_운영_현황_대장_작성예시_v0.1]]

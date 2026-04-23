@@ -5,7 +5,7 @@ title: "SIEM 룰 관리대장"
 version: "0.1"
 owner: "SecOps 팀장"
 parent_wi: "[[WI-501-01_SIEM_운영_v0.1]]"
-related_ex: "[[EX-LOG-001_SIEM_룰_관리대장_작성예시]]"
+related_ex: "[[EX-LOG-001_SIEM_룰_관리대장_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, SIEM]
 
 # SIEM 룰 관리대장 (TMP-LOG-001)
 
-> 상위 업무지침: [[WI-501-01_SIEM_운영_v0.1]] · 작성예시: [[EX-LOG-001_SIEM_룰_관리대장_작성예시]]
+> 상위 업무지침: [[WI-501-01_SIEM_운영_v0.1]] · 작성예시: [[EX-LOG-001_SIEM_룰_관리대장_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -45,4 +45,4 @@ tags: [TMP, MDCS, SaMD-CSMS, SIEM]
 
 ---
 
-작성예시: [[EX-LOG-001_SIEM_룰_관리대장_작성예시]]
+작성예시: [[EX-LOG-001_SIEM_룰_관리대장_작성예시_v0.1]]

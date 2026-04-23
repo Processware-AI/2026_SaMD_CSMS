@@ -5,7 +5,7 @@ title: "BCP 발동 기록"
 version: "0.1"
 owner: "CSIRT 리더"
 parent_wi: "[[WI-502-04_BCP_및_Fail-safe_v0.1]]"
-related_ex: "[[EX-IR-040_BCP_발동_기록_작성예시]]"
+related_ex: "[[EX-IR-040_BCP_발동_기록_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, BCP, Fail-safe, 사업연속성, 침해사고대응
 
 # BCP 발동 기록 (TMP-IR-040)
 
-> 상위 업무지침: [[WI-502-04_BCP_및_Fail-safe_v0.1]] · 작성예시: [[EX-IR-040_BCP_발동_기록_작성예시]]
+> 상위 업무지침: [[WI-502-04_BCP_및_Fail-safe_v0.1]] · 작성예시: [[EX-IR-040_BCP_발동_기록_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -99,4 +99,4 @@ tags: [TMP, MDCS, SaMD-CSMS, BCP, Fail-safe, 사업연속성, 침해사고대응
 
 ---
 
-작성예시: [[EX-IR-040_BCP_발동_기록_작성예시]]
+작성예시: [[EX-IR-040_BCP_발동_기록_작성예시_v0.1]]

@@ -5,7 +5,7 @@ title: "재발검증 스캔 기록"
 version: "0.1"
 owner: "PSO"
 parent_wi: "[[WI-601-06_조치후_감시_및_재발검증_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-VDP-061_재발검증_스캔_기록_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, VDP, scan, verification]
 
 # 재발검증 스캔 기록 (TMP-VDP-061)
 
-> 상위 업무지침: [[WI-601-06_조치후_감시_및_재발검증_v0.1]]
+> 상위 업무지침: [[WI-601-06_조치후_감시_및_재발검증_v0.1]] · 작성예시: [[EX-VDP-061_재발검증_스캔_기록_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -37,3 +37,5 @@ tags: [TMP, MDCS, SaMD-CSMS, VDP, scan, verification]
 | 결과 판정 | `<검증 완료/재조치 필요>` |
 
 ---
+
+작성예시: [[EX-VDP-061_재발검증_스캔_기록_작성예시_v0.1]]

@@ -5,7 +5,7 @@ title: "초기 대외 신고서"
 version: "0.1"
 owner: "RA 리드"
 parent_wi: "[[WI-502-02_대외신고_식약처_MSP_이용자_v0.1]]"
-related_ex: "[[EX-IR-002_초기_대외신고서_작성예시]]"
+related_ex: "[[EX-IR-002_초기_대외신고서_작성예시_v0.1]]"
 standards: ["SaMD-CSMS", "디지털의료제품법 제32조"]
 status: draft
 created: "2026-04-17"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, reporting]
 
 # 초기 대외 신고서 (TMP-IR-002)
 
-> 상위 업무지침: [[WI-502-02_대외신고_식약처_MSP_이용자_v0.1]] · 작성예시: [[EX-IR-002_초기_대외신고서_작성예시]]
+> 상위 업무지침: [[WI-502-02_대외신고_식약처_MSP_이용자_v0.1]] · 작성예시: [[EX-IR-002_초기_대외신고서_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -74,4 +74,4 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, reporting]
 
 ---
 
-작성예시: [[EX-IR-002_초기_대외신고서_작성예시]]
+작성예시: [[EX-IR-002_초기_대외신고서_작성예시_v0.1]]

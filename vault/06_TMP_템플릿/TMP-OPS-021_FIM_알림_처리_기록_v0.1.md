@@ -5,7 +5,7 @@ title: "FIM 알림 처리 기록"
 version: "0.1"
 owner: "SecOps팀"
 parent_wi: "[[WI-501-03_무결성_검증_FIM_v0.1]]"
-related_ex: ""
+related_ex: "[[EX-OPS-021_FIM_알림_처리_기록_작성예시_v0.1]]"
 standards: ["SaMD-CSMS"]
 status: draft
 created: "2026-04-22"
@@ -15,7 +15,7 @@ tags: [TMP, MDCS, SaMD-CSMS, FIM, 무결성검증, 알림처리]
 
 # FIM 알림 처리 기록 (TMP-OPS-021)
 
-> 상위 업무지침: [[WI-501-03_무결성_검증_FIM_v0.1]]
+> 상위 업무지침: [[WI-501-03_무결성_검증_FIM_v0.1]] · 작성예시: [[EX-OPS-021_FIM_알림_처리_기록_작성예시_v0.1]]
 
 > 이 파일은 **빈 양식** 입니다.
 
@@ -72,3 +72,5 @@ tags: [TMP, MDCS, SaMD-CSMS, FIM, 무결성검증, 알림처리]
 |---|---|---|---|
 | 담당자 |  |  |  |
 | SecOps 팀장 |  |  |  |
+
+작성예시: [[EX-OPS-021_FIM_알림_처리_기록_작성예시_v0.1]]
