@@ -5,7 +5,7 @@ title: "입력 검증 및 SAST 운영 업무지침"
 version: "0.1"
 owner: "개발팀장"
 reviewer: "QA 리드"
-approver: "CISO"
+approver: "오동석"
 scope: "입력 데이터 화이트리스트·타입·길이·범위 검증, SQL Injection·XSS·BOF 방어, SAST 도구 운영"
 parent_pro: "[[PRO-MDCS-403_데이터_및_파일_보안_관리_절차_v1.0]]"
 related_tmp: []
@@ -29,7 +29,7 @@ tags: [WI, MDCS, SaMD-CSMS, input-validation, SAST]
 
 - **주 수행자**: 개발팀 개발자
 - **검토자**: QA 리드, PSO
-- **승인자**: CISO (보안 게이트)
+- **승인자**: 오동석 (보안 게이트)
 
 ## 3. 범위
 
@@ -110,7 +110,7 @@ tags: [WI, MDCS, SaMD-CSMS, input-validation, SAST]
 
 ### 7.4 긴급 핫픽스 SAST 스킵 요청
 
-환자 안전 긴급 핫픽스에서 SAST 통과 불가 시 PSO + CISO 공동 승인으로 예외 배포한다. 배포 직후 48시간 이내 SAST 통과 확인 재배포를 계획한다.
+환자 안전 긴급 핫픽스에서 SAST 통과 불가 시 PSO + 오동석 공동 승인으로 예외 배포한다. 배포 직후 48시간 이내 SAST 통과 확인 재배포를 계획한다.
 
 ## 8. 연계 템플릿 / 기록
 
@@ -138,4 +138,4 @@ tags: [WI, MDCS, SaMD-CSMS, input-validation, SAST]
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 0.1 | 2026-04-17 | 최초 초안 작성 | CISO |
+| 0.1 | 2026-04-17 | 최초 초안 작성 | 오동석 |

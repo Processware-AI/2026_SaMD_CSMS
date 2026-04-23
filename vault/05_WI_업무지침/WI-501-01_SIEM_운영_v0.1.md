@@ -4,8 +4,8 @@ doc_id: "WI-501-01"
 title: "SIEM 운영 업무지침"
 version: "0.1"
 owner: "SecOps 팀장"
-reviewer: "CISO"
-approver: "CISO"
+reviewer: "오동석"
+approver: "오동석"
 scope: "SIEM 기반 이상 탐지·상관 분석·플레이북 실행, 탐지 룰 유지·튜닝"
 parent_pro: "[[PRO-MDCS-501_보안_모니터링_및_로그_관리_절차_v1.0]]"
 related_tmp:
@@ -29,7 +29,7 @@ tags: [WI, MDCS, SaMD-CSMS, SIEM, detection]
 
 - **주 수행자**: SecOps 엔지니어
 - **검토자**: CSIRT, PSO
-- **승인자**: CISO
+- **승인자**: 오동석
 
 ## 3. 범위
 
@@ -133,4 +133,4 @@ SIEM 플랫폼 업그레이드·교체 시 구 룰셋을 신 플랫폼 문법으
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 0.1 | 2026-04-17 | 최초 초안 작성 | CISO |
+| 0.1 | 2026-04-17 | 최초 초안 작성 | 오동석 |

@@ -75,7 +75,7 @@ tags: [TMP, MDCS, SaMD-CSMS, risk]
 | 내부 검토 | Safety/QA |  |  |
 | 심의 | PSC |  |  |
 | Critical 수용 | CEO |  |  |
-| 최종 승인 | CISO |  |  |
+| 최종 승인 | 오동석 |  |  |
 
 ---
 

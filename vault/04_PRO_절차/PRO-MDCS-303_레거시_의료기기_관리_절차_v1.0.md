@@ -22,7 +22,7 @@ created: "2026-04-17"
 updated: "2026-04-17"
 tags: [PRO, MDCS, SaMD-CSMS, legacy, EOS, tier-C]
 ---
-
+2
 # 레거시 디지털의료기기 관리 절차 (PRO-MDCS-303)
 
 > 상위 정책: [[POL-MDCS-003_보안_개발수명주기_정책_v1.0]]

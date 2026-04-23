@@ -4,8 +4,8 @@ doc_id: "PRO-MDCS-403"
 title: "데이터 및 파일 보안 관리 절차"
 version: "1.0"
 owner: "Privacy Officer (DPO)"
-reviewer: "CISO"
-approver: "CISO"
+reviewer: "오동석"
+approver: "오동석"
 scope: "파일 업·다운로드 유효성, 입력 검증, DB 보안, 개인정보 비식별화, 데이터 전송 암호화, 실행 파일 차단"
 parent_policy: "[[POL-MDCS-004_기술적_물리적_보안통제_정책_v1.0]]"
 child_wi:
@@ -147,4 +147,4 @@ flowchart TD
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제06·07·08조 기반) | CISO |
+| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제06·07·08조 기반) | 오동석 |

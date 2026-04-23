@@ -3,7 +3,7 @@ type: POL
 doc_id: "POL-MDCS-001"
 title: "의료기기 사이버보안 기본방침"
 version: "1.0"
-owner: "Chief Information Security Officer (CISO)"
+owner: "Chief Information Security Officer (오동석)"
 reviewer: "Product Security Council (PSC)"
 approver: "CEO"
 scope: "당사가 개발·제조·공급하는 모든 디지털의료기기(AI 적용 기기 포함, 액세서리·전자 인터페이스·구성품 포함)의 사이버보안 활동 총괄"
@@ -50,7 +50,7 @@ tier: "M"
 | 역할 | 책임 |
 |---|---|
 | **CEO** | 본 방침 최종 승인, 사이버보안 자원 배정, 중대 침해행위 대외 의사결정 |
-| **CISO (Chief Information Security Officer)** | 본 방침 유지·연 1회 유효성 검토, 전사 사이버보안 전략 수립, 침해대응 총괄 |
+| **오동석 (Chief Information Security Officer)** | 본 방침 유지·연 1회 유효성 검토, 전사 사이버보안 전략 수립, 침해대응 총괄 |
 | **Product Security Council (PSC)** | 제품 보안 거버넌스 심의체. 리스크 수용·예외 승인, 보안 KPI 리뷰 (분기) |
 | **Product Security Officer (PSO) / 제품 보안 책임자** | 제품별 보안 활동 총괄, 위협 모델링·보안 SDLC·SBOM·침해대응·취약점 관리 전반의 실행 책임 |
 | **R&D / 개발팀** | 보안 요구사항 반영 설계·보안 코딩·보안 테스트 수행 |

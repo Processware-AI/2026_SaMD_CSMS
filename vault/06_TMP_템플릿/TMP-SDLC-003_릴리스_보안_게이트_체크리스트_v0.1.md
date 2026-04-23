@@ -67,7 +67,7 @@ tags: [TMP, MDCS, SaMD-CSMS, SDLC, release-gate]
 |---|---|---|---|---|
 | 보안 심의 | PSC |  |  |  |
 | R&D 승인 | VP of R&D |  |  |  |
-| 보안 승인 | CISO |  |  |  |
+| 보안 승인 | 오동석 |  |  |  |
 | 긴급 시 CEO |  |  |  |  |
 
 ---

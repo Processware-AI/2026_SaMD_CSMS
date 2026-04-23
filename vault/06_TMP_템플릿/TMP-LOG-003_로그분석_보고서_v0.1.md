@@ -65,7 +65,7 @@ tags: [TMP, MDCS, SaMD-CSMS, logging]
 | 역할 | 성명 | 일자 |
 |---|---|---|
 | SecOps 팀장 |  |  |
-| CISO |  |  |
+| 오동석 |  |  |
 
 ---
 

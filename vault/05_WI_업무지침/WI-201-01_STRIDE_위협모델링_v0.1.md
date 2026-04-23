@@ -5,7 +5,7 @@ title: "STRIDE 위협모델링 업무지침"
 version: "0.1"
 owner: "Product Security Officer (PSO)"
 reviewer: "PSC"
-approver: "CISO"
+approver: "오동석"
 scope: "설계 단계의 STRIDE 기반 위협 식별·문서화, 대응 통제 매핑"
 parent_pro: "[[PRO-MDCS-201_사이버보안_리스크_관리_절차_v1.0]]"
 related_tmp:
@@ -29,7 +29,7 @@ SaMD 제품의 설계 초기 단계부터 STRIDE(Spoofing·Tampering·Repudiatio
 
 - **주 수행자**: PSO, R&D 리드
 - **검토자**: PSC, 임상 담당자
-- **승인자**: CISO
+- **승인자**: 오동석
 
 ## 3. 범위
 
@@ -126,4 +126,4 @@ AI 기기의 경우 STRIDE 외 데이터 중독·모델 회피 공격을 [[WI-30
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 0.1 | 2026-04-17 | 최초 초안 작성 (Top10 4위 WI) | CISO |
+| 0.1 | 2026-04-17 | 최초 초안 작성 (Top10 4위 WI) | 오동석 |

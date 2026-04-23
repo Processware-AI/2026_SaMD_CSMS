@@ -62,7 +62,7 @@ tags: [TMP, MDCS, SaMD-CSMS, FIM, 무결성검증, 알림처리]
 
 | 일시 | 에스컬레이션 대상 | 사유 | 결과 |
 |---|---|---|---|
-|  | `<SecOps팀장/CISO/CSIRT>` |  |  |
+|  | `<SecOps팀장/오동석/CSIRT>` |  |  |
 
 ---
 

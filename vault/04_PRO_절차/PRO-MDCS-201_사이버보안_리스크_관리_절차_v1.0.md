@@ -6,7 +6,7 @@ title: "사이버보안 리스크 관리 절차 (AI 보안 통합)"
 version: "1.0"
 owner: "Product Security Officer (PSO)"
 reviewer: "Product Security Council (PSC)"
-approver: "CISO"
+approver: "오동석"
 scope: "디지털의료기기 수명주기 전반의 위협 모델링, 취약점 평가, 위험 통제, 잔여 위험 수용, 시판 후 재평가, AI 보안 리스크 통합"
 parent_policy: "[[POL-MDCS-002_사이버보안_리스크관리_정책_v1.0]]"
 child_wi:
@@ -171,6 +171,6 @@ flowchart TD
 
 | 버전  | 일자         | 변경내용                                     | 승인자  |
 | --- | ---------- | ---------------------------------------- | ---- |
-| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제13조 중심, 제12조 AI 보안 통합) | CISO |
+| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제13조 중심, 제12조 AI 보안 통합) | 오동석 |
 
 

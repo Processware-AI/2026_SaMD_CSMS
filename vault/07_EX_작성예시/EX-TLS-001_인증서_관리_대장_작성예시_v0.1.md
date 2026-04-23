@@ -37,7 +37,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 | CERT-2026-002 | admin.mediguard.io | DigiCert | RSA-2048 | 2025-06-15 | 2026-06-15 | 이수빈 | 미적용 | 유효 |
 | CERT-2026-003 | ota.mediguard.io | DigiCert | ECDSA-256 | 2025-09-01 | 2026-09-01 | 박소연 | 적용 (cert-manager) | 유효 |
 | CERT-2026-004 | *.mediguard-stg.local | Let's Encrypt | RSA-2048 | 2026-02-10 | 2026-05-10 | 이수빈 | 적용 (certbot) | 유효 |
-| CERT-2026-005 | internal-siem.mediguard.local | 자체 CA | RSA-4096 | 2024-01-01 | 2027-01-01 | 이정민 | 미적용 | 유효 |
+| CERT-2026-005 | internal-siem.mediguard.local | 자체 CA | RSA-4096 | 2024-01-01 | 2027-01-01 | 오동석 | 미적용 | 유효 |
 | CERT-2026-006 | push.mediguard.io | GlobalSign | ECDSA-256 | 2025-11-20 | 2026-11-20 | 박소연 | 적용 (ACME) | 유효 |
 
 ## 3. 만료 임박 알림 기준

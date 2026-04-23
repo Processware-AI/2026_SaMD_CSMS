@@ -3,7 +3,7 @@ type: POL
 doc_id: "POL-MDCS-004"
 title: "기술적·물리적 보안 통제 정책"
 version: "1.0"
-owner: "Chief Information Security Officer (CISO)"
+owner: "Chief Information Security Officer (오동석)"
 reviewer: "Product Security Council (PSC)"
 approver: "CEO"
 scope: "디지털의료기기 및 운영 환경의 물리적·네트워크·접근·데이터·암호·유지관리에 관한 기술 통제 기본 규범"
@@ -52,7 +52,7 @@ tier: "S"
 | 역할 | 책임 |
 |---|---|
 | **CEO** | 본 정책 승인 |
-| **CISO** | 본 정책 유지, 기술 통제 표준·가이드라인 승인 |
+| **오동석** | 본 정책 유지, 기술 통제 표준·가이드라인 승인 |
 | **SecOps / 보안운영팀** | 통제 운영, 모니터링, 사고 탐지 |
 | **시설 관리팀 (Facility)** | 물리 보안(출입·CCTV·UPS·항온항습) 운영 |
 | **네트워크·인프라팀** | 네트워크 분리·방화벽·VPN·NAC 운영 |

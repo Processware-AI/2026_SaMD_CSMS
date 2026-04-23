@@ -16,7 +16,7 @@ tags: [MAT, raci]
 > 전사 PRO 별 책임 분담을 단일 표로 집계. 역할 중복·공백 탐지용.
 
 ## 역할 리스트
-- 경영진(CEO / CISO / CPO / VP of R&D)
+- 경영진(CEO / 오동석 / CPO / VP of R&D)
 - 프로세스 오너 (PSO, CSIRT 리더, DPO, IAM·SBOM·KMS 관리자 등)
 - 실무 담당자 (개발·QA·SecOps·인프라·네트워크·RA·홍보/CS)
 - 내부심사팀
@@ -26,13 +26,13 @@ tags: [MAT, raci]
 
 ### QMS (샘플)
 
-| PRO | 활동 | CEO | CISO | Owner | 담당 | QA |
+| PRO | 활동 | CEO | 오동석 | Owner | 담당 | QA |
 |---|---|---|---|---|---|---|
 | PRO-QMS-101 | 경영검토 | A | C | R |  | I |
 
 ### SaMD-CSMS — PRO 11종 (Owner = Accountable)
 
-| PRO | 활동(대표) | CEO | CISO | Owner | R&D | SecOps | DPO | CSIRT | PSO | RA |
+| PRO | 활동(대표) | CEO | 오동석 | Owner | R&D | SecOps | DPO | CSIRT | PSO | RA |
 |---|---|---|---|---|---|---|---|---|---|---|
 | PRO-MDCS-101 (문서화) | 보안문서 관리 | I | C | **A**/R (PSO) | — | — | — | — | **A**/R | — |
 | PRO-MDCS-401 (접근통제) | 계정·MFA·원격접속 | I | **A** | R (IAM 관리자) | — | C | — | — | C | — |
@@ -54,9 +54,9 @@ tags: [MAT, raci]
 - **없음** (전 11개 PRO 모두 Accountable 명시)
 
 ### Accountable 중복·모호 PRO (2명 이상 할당 또는 역할 경합)
-- ⚠️ **PRO-MDCS-401**: CISO 단독 Accountable — IAM 실무 Accountable 명확 (IAM 관리자는 R)
-- ⚠️ **PRO-MDCS-502**: CEO(Critical 등급만) + CISO 중첩 할당 — 침해 등급별 Accountable 분기 규정화 필요
-- ⚠️ **PRO-MDCS-201**: CISO(전사 위험) + PSO(제품 위험) 경합 소지 — 본 표상 CISO Accountable, PSO Responsible 로 명시했으나 위험 수용 기준 레벨별 재확인 필요
+- ⚠️ **PRO-MDCS-401**: 오동석 단독 Accountable — IAM 실무 Accountable 명확 (IAM 관리자는 R)
+- ⚠️ **PRO-MDCS-502**: CEO(Critical 등급만) + 오동석 중첩 할당 — 침해 등급별 Accountable 분기 규정화 필요
+- ⚠️ **PRO-MDCS-201**: 오동석(전사 위험) + PSO(제품 위험) 경합 소지 — 본 표상 오동석 Accountable, PSO Responsible 로 명시했으나 위험 수용 기준 레벨별 재확인 필요
 
 ### Consulted 누락 권고
 - **DPO**: PRO-MDCS-502 (침해 시 개인정보 유출 가능) → 현재 Consulted 반영됨

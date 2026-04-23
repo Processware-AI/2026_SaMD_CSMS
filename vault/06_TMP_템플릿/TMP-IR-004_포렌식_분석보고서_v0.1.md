@@ -68,7 +68,7 @@ tags: [TMP, MDCS, SaMD-CSMS, IR, forensics]
 | 역할 | 성명 | 일자 |
 |---|---|---|
 | CSIRT 리더 |  |  |
-| CISO |  |  |
+| 오동석 |  |  |
 
 ---
 

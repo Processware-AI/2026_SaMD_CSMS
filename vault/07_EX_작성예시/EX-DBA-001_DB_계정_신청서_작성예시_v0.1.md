@@ -88,7 +88,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 |---|---|---|
 | 권한 범위 | DBA | SELECT (audit_log_view, incident_summary_view 한정) |
 
-DBA 권한은 DB 전체 제어 권한으로, 분석 목적에는 절대 부적합하다. 업무에 필요한 최소 권한(뷰 단위 SELECT)으로 신청해야 하며, DBA 권한 신청은 CISO 별도 승인이 필요하다.
+DBA 권한은 DB 전체 제어 권한으로, 분석 목적에는 절대 부적합하다. 업무에 필요한 최소 권한(뷰 단위 SELECT)으로 신청해야 하며, DBA 권한 신청은 오동석 별도 승인이 필요하다.
 
 ### NG 사례 — 사용 기간 미기재
 

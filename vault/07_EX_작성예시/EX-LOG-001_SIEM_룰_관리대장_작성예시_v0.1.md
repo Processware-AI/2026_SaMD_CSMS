@@ -24,7 +24,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 | SIEM-R-001 | 다수 로그인 실패 탐지 | 무차별 대입 공격(Brute Force) 탐지 | High | T1110 (Brute Force) | 인증서버 (auth-srv-01) | 운영 배치 자동화 서비스 계정(svc-deploy) 제외 | 김보안 | 활성 |
 | SIEM-R-002 | 비업무시간 HSM 접근 탐지 | 미인가 HSM 접근 탐지 | Critical | T1552.004 (Private Keys) | HSM (Thales Luna 7) | 정기 백업 스케줄(02:00~03:00, svc-backup) 제외 | 김보안 | 활성 |
 | SIEM-R-003 | 대용량 데이터 외부 전송 탐지 | 데이터 유출(Exfiltration) 탐지 | High | T1048 (Exfiltration Over Alternative Protocol) | 환자 데이터 DB 서버 | 백업 대역(10.10.0.0/24) 트래픽 제외 | 박클라우드 | 활성 |
-| SIEM-R-004 | 특권 계정 주말 로그인 탐지 | 비인가 특권 접근 탐지 | Medium | T1078 (Valid Accounts) | 전체 서버 (Linux/Windows) | 허용된 비상 접근 계정(svc-oncall) 제외 | 이정민 | 활성 |
+| SIEM-R-004 | 특권 계정 주말 로그인 탐지 | 비인가 특권 접근 탐지 | Medium | T1078 (Valid Accounts) | 전체 서버 (Linux/Windows) | 허용된 비상 접근 계정(svc-oncall) 제외 | 오동석 | 활성 |
 | SIEM-R-005 | 구 TLS 버전 사용 탐지 | TLS 1.0/1.1 사용 탐지 | Medium | T1573 (Encrypted Channel) | 웹 게이트웨이 (gw-prod-01) | 없음 | 박클라우드 | 비활성 (레거시 연동 예외 처리 중) |
 
 ## 2. 튜닝 이력
@@ -32,7 +32,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 | 룰 ID | 변경 일시 | 변경자 | 변경 사유 | 이전 설정 | 신규 설정 |
 |---|---|---|---|---|---|
 | SIEM-R-001 | 2026-03-10 14:00 | 김보안 | False Positive 감소 (배포 자동화 계정 오탐) | 5분 내 5회 실패 | 5분 내 10회 실패, svc-deploy 제외 |
-| SIEM-R-002 | 2026-04-01 09:00 | 이정민 | 백업 스케줄 변경으로 억제 조건 갱신 | 00:00~06:00 접근 탐지 | 정기 백업 시간(02:00~03:00) 추가 억제 |
+| SIEM-R-002 | 2026-04-01 09:00 | 오동석 | 백업 스케줄 변경으로 억제 조건 갱신 | 00:00~06:00 접근 탐지 | 정기 백업 시간(02:00~03:00) 추가 억제 |
 | SIEM-R-005 | 2026-02-15 11:00 | 박클라우드 | 레거시 의료기기 TLS 1.1 연동 이슈로 임시 비활성화 | 활성 | 비활성 (예외 승인서 EX-HRD-2026-003 참조) |
 
 ## 3. 효과 지표
@@ -50,7 +50,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 | 룰 ID | SOAR 플레이북 ID | 자동 대응 액션 |
 |---|---|---|
 | SIEM-R-001 | PB-001_BruteForce_Response | 계정 일시 잠금, 슬랙 알림, SecOps 티켓 자동 생성 |
-| SIEM-R-002 | PB-002_HSM_UnauthorizedAccess | CISO 즉시 알림, HSM 접근 차단 요청 생성 |
+| SIEM-R-002 | PB-002_HSM_UnauthorizedAccess | 오동석 즉시 알림, HSM 접근 차단 요청 생성 |
 | SIEM-R-003 | PB-003_DataExfiltration_Response | 해당 IP 방화벽 격리 요청, CSIRT 에스컬레이션 |
 | SIEM-R-004 | PB-004_PrivilegedAccess_Alert | SecOps 알림, 세션 모니터링 강화 |
 

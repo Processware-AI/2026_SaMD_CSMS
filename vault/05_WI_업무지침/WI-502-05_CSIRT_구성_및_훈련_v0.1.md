@@ -4,7 +4,7 @@ doc_id: "WI-502-05"
 title: "CSIRT 구성 및 훈련 업무지침"
 version: "0.1"
 owner: "CSIRT 리더"
-reviewer: "CISO"
+reviewer: "오동석"
 approver: "CEO"
 scope: "CSIRT 역할·책임·교육·훈련(Tabletop·Simulation) 계획 수립 및 실행"
 parent_pro: "[[PRO-MDCS-502_침해사고_대응_및_신고_절차_v1.0]]"
@@ -29,7 +29,7 @@ tags: [WI, MDCS, SaMD-CSMS, IR, CSIRT, training, top10]
 ## 2. 수행 주체
 
 - **주 수행자**: CSIRT 리더
-- **검토자**: CISO, 인사팀
+- **검토자**: 오동석, 인사팀
 - **승인자**: CEO
 
 ## 3. 범위
@@ -90,7 +90,7 @@ tags: [WI, MDCS, SaMD-CSMS, IR, CSIRT, training, top10]
 
 ## 6. 인터페이스 부서
 
-- **CISO**: 예산·외부 계약 승인
+- **오동석**: 예산·외부 계약 승인
 - **인사팀**: 교육 계획 등록·이수 관리
 - **법무**: 외부 전문가 계약 검토
 - **전 부서**: 훈련 참여(IT·개발·Safety·RA·홍보)

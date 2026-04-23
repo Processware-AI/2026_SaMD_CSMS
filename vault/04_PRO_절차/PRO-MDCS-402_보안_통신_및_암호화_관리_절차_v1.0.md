@@ -4,8 +4,8 @@ doc_id: "PRO-MDCS-402"
 title: "보안 통신 및 암호화 관리 절차"
 version: "1.0"
 owner: "네트워크·인프라 팀장"
-reviewer: "CISO"
-approver: "CISO"
+reviewer: "오동석"
+approver: "오동석"
 scope: "네트워크 보안 설정, 내·외부 통신 암호화, 이동식 매체 통제, 암호화 키 생명주기"
 parent_policy: "[[POL-MDCS-004_기술적_물리적_보안통제_정책_v1.0]]"
 child_wi:
@@ -41,7 +41,7 @@ tags: [PRO, MDCS, SaMD-CSMS, network, crypto, tier-S]
 
 ## 3. 역할과 책임 (RACI)
 
-| 단계 | 네트워크팀 | 인프라팀 | KMS Admin | CISO | SecOps |
+| 단계 | 네트워크팀 | 인프라팀 | KMS Admin | 오동석 | SecOps |
 |---|---|---|---|---|---|
 | 네트워크 보안 설계 | **R** | C | - | **A** | I |
 | 방화벽/IPS 운영 | **R** | C | - | A | C |
@@ -136,4 +136,4 @@ flowchart TD
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제04·09조 기반) | CISO |
+| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제04·09조 기반) | 오동석 |

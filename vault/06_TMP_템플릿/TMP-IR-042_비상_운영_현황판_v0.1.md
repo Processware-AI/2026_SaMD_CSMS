@@ -78,7 +78,7 @@ tags: [TMP, MDCS, SaMD-CSMS, BCP, Fail-safe, 사업연속성, 현황판]
 | SecOps 팀 |  |  |  |
 | 인프라팀 |  |  |  |
 | 개발팀 기술 담당 |  |  |  |
-| CISO |  |  |  |
+| 오동석 |  |  |  |
 | CEO |  |  |  |
 | MSP 비상 담당자 |  |  |  |
 

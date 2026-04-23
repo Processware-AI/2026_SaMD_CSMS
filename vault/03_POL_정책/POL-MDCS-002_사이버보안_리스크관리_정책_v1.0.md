@@ -3,7 +3,7 @@ type: POL
 doc_id: "POL-MDCS-002"
 title: "사이버보안 리스크 관리 정책"
 version: "1.0"
-owner: "Chief Information Security Officer (CISO)"
+owner: "Chief Information Security Officer (오동석)"
 reviewer: "Product Security Council (PSC)"
 approver: "CEO"
 scope: "디지털의료기기 수명주기 전반의 사이버보안 위협·취약점 식별, 위험 평가, 통제, 잔여 위험 관리 및 시판 후 지속 감시"
@@ -48,7 +48,7 @@ tier: "M"
 | 역할 | 책임 |
 |---|---|
 | **CEO** | 본 정책 승인, 중대 잔여 위험의 최종 수용 결정 |
-| **CISO** | 본 정책 유지, 리스크 평가 방법론 유효성 관리 |
+| **오동석** | 본 정책 유지, 리스크 평가 방법론 유효성 관리 |
 | **PSC** | 위험 수용·예외·완화 계획 심의, 분기별 리스크 포트폴리오 검토 |
 | **Product Security Officer** | 제품별 위협 모델링·위험 평가 수행, Safety 팀과의 연계 보증 |
 | **R&D / 개발팀** | 위협 모델링 참여, 통제 설계·구현 |

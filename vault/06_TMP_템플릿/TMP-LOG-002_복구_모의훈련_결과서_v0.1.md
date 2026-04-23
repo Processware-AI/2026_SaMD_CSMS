@@ -62,7 +62,7 @@ tags: [TMP, MDCS, SaMD-CSMS, backup, DR]
 |---|---|---|
 | 훈련 리더 |  |  |
 | SecOps 팀장 |  |  |
-| CISO |  |  |
+| 오동석 |  |  |
 
 ---
 

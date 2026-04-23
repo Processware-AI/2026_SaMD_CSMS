@@ -5,7 +5,7 @@ title: "SBOM(소프트웨어 구성요소 명세서) 관리 절차"
 version: "1.0"
 owner: "SBOM 관리자"
 reviewer: "Product Security Officer (PSO)"
-approver: "CISO"
+approver: "오동석"
 scope: "디지털의료기기 릴리스별 SBOM 생성·갱신·보호·제공, CVE/NVD 연계 및 침해·취약점 대응 활용"
 parent_policy: "[[POL-MDCS-003_보안_개발수명주기_정책_v1.0]]"
 child_wi:
@@ -41,7 +41,7 @@ tags: [PRO, MDCS, SaMD-CSMS, SBOM, CVE, tier-C]
 
 ## 3. 역할과 책임 (RACI)
 
-| 단계 | SBOM 관리자 | R&D | PSO | CISO | 법무 | MSP |
+| 단계 | SBOM 관리자 | R&D | PSO | 오동석 | 법무 | MSP |
 |---|---|---|---|---|---|---|
 | SBOM 생성 | **R** | C | **A** | I | - | - |
 | 구성요소 정확성 검증 | **R** | **R** | A | - | - | - |
@@ -133,4 +133,4 @@ flowchart TD
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제16조 기반, 제17조 연계) | CISO |
+| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제16조 기반, 제17조 연계) | 오동석 |

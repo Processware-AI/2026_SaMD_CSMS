@@ -75,7 +75,7 @@ tags: [TMP, MDCS, SaMD-CSMS, AI-security]
 | 기술 검토 | PSO |  |  |
 | 임상 검토 | AI Safety |  |  |
 | 프라이버시 검토 | DPO |  |  |
-| 최종 승인 | CISO |  |  |
+| 최종 승인 | 오동석 |  |  |
 
 ---
 

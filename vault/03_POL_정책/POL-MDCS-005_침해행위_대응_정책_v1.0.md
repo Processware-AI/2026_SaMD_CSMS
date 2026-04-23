@@ -3,7 +3,7 @@ type: POL
 doc_id: "POL-MDCS-005"
 title: "전자적 침해행위 대응 정책"
 version: "1.0"
-owner: "Chief Information Security Officer (CISO)"
+owner: "Chief Information Security Officer (오동석)"
 reviewer: "Product Security Council (PSC)"
 approver: "CEO"
 scope: "디지털의료기기 및 운영 환경의 전자적 침해행위 예방·탐지·대응·복구·사후조치"
@@ -49,7 +49,7 @@ tier: "S"
 | 역할 | 책임 |
 |---|---|
 | **CEO** | 본 정책 승인, 중대 침해 대외 의사결정 |
-| **CISO** | 본 정책 유지, CSIRT 운영 감독 |
+| **오동석** | 본 정책 유지, CSIRT 운영 감독 |
 | **CSIRT 리더** | 침해행위 지휘 통제, 초기 분석·격리·복구 결정 |
 | **CSIRT 팀원** | 24시간 비상 대기, 탐지·포렌식·복구 실행 |
 | **SecOps** | SIEM·로그·안티바이러스·백업 운영, 이상 탐지 1차 대응 |

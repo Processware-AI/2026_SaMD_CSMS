@@ -23,7 +23,7 @@ tags: [TMP, MDCS, SaMD-CSMS, documentation]
 
 - 작성자: `<성명/소속>`
 - 작성일: `<YYYY-MM-DD>`
-- 결재 경로: 작성자 → QMR(형식검토) → PSO(기술검토) → 승인자(POL/PRO=CISO, WI/TMP=PSO 또는 PSC)
+- 결재 경로: 작성자 → QMR(형식검토) → PSO(기술검토) → 승인자(POL/PRO=오동석, WI/TMP=PSO 또는 PSC)
 
 ## 1. 문서 기본 정보
 
@@ -71,7 +71,7 @@ tags: [TMP, MDCS, SaMD-CSMS, documentation]
 |---|---|---|---|---|---|
 | 형식 검토 | QMR |  |  |  |  |
 | 기술 검토 | PSO |  |  |  |  |
-| 최종 승인 | CISO/PSO/PSC |  |  |  |  |
+| 최종 승인 | 오동석/PSO/PSC |  |  |  |  |
 
 ---
 

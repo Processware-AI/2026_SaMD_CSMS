@@ -113,7 +113,7 @@ tags: [worknote, SaMD-CSMS, MDCS]
 | 2026-04-17 | trace — Unresolved WI | PRO child_wi 선언 대비 미생성 WI 26건 (P0 3건 포함) | MAT-011 §6 큐 등록. write 단계 경고 6건 외 20건 추가 발견 |
 | 2026-04-17 | trace — EX 저커버 | TMP 28 중 13만 EX 보유 (15건 미작성) | IR·VDP·법적 5건 우선 작성 권고 (MAT-011 §7) |
 | 2026-04-17 | trace — TMP-IR-006 CSIRT RACI | 의뢰사 지적 — 신규 TMP 필요 | MDCS-R-175 보강용, qa-reviewer 전달 |
-| 2026-04-17 | trace — RACI 경고 | PRO-MDCS-502/301 Accountable 경합 (CEO-CISO, CISO-PSO) | MAT-004 공백·중복 알림에 기록. 조직 합의 필요 |
+| 2026-04-17 | trace — RACI 경고 | PRO-MDCS-502/301 Accountable 경합 (CEO-오동석, 오동석-PSO) | MAT-004 공백·중복 알림에 기록. 조직 합의 필요 |
 | 2026-04-17 | qa attempt 1 — 깨진 TMP 링크 5건 | TMP-IR-003, TMP-ACC-002, TMP-NET-001, TMP-IR-006, TMP-SDLC-001 이 WI 에 선언되었으나 파일·큐 미등록 | **Major** - MAT-001 unresolved_tmp 큐 추가 필요 (traceability-mapper) · 또는 wi-tmp-writer 가 실제 TMP 생성 |
 | 2026-04-17 | qa attempt 1 — WI 내 깨진 EX 참조 15건 | 작성예시 링크가 13건만 대응, 나머지 15건은 EX 미생성 | **Warn** - 기존 ex_missing_for_tmp 큐에 포함되어 있음 |
 | 2026-04-17 | qa attempt 1 — 링크 버전 suffix 일관성 | 일부 WI→TMP 링크가 `_v0.1` 없이 기재됨 (Obsidian 은 prefix 매칭으로 해소되나 스타일 불일치) | **Minor** - 정식 버전 suffix 포함 표기 권장 |

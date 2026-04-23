@@ -105,7 +105,7 @@ tags: [TMP, MDCS, SaMD-CSMS, hardening, 예외승인]
 |---|---|---|---|---|
 | 요청자 |  | 인프라팀 |  |  |
 | 검토자(SecOps) |  | SecOps팀 |  |  |
-| 승인자(CISO) |  | CISO |  |  |
+| 승인자(오동석) |  | 오동석 |  |  |
 
 ---
 

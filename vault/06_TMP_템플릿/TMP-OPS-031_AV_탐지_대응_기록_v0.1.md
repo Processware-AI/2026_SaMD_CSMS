@@ -72,7 +72,7 @@ tags: [TMP, MDCS, SaMD-CSMS, AV, 안티바이러스, 탐지대응]
 
 | 일시 | 에스컬레이션 대상 | 사유 | 결과 |
 |---|---|---|---|
-|  | `<SecOps팀장/CISO/CSIRT>` |  |  |
+|  | `<SecOps팀장/오동석/CSIRT>` |  |  |
 
 ---
 

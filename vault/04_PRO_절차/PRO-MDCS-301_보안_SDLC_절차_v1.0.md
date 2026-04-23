@@ -43,7 +43,7 @@ tags: [PRO, MDCS, SaMD-CSMS, SDLC, SAST, DAST, tier-C]
 
 ## 3. 역할과 책임 (RACI)
 
-| 단계 | PM | R&D | PSO | QA | CISO | VP R&D |
+| 단계 | PM | R&D | PSO | QA | 오동석 | VP R&D |
 |---|---|---|---|---|---|---|
 | 보안 요구사항 정의 | **A** | **R** | C | C | I | I |
 | 위협 모델링 (설계) | C | **R** | **A** | C | I | I |

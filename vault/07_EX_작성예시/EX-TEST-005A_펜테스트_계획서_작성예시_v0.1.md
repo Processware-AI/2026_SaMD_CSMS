@@ -26,7 +26,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 | 계획서 ID | TEST-PEN-PLAN-2026-002 |
 | 작성일 | 2026-03-20 |
 | 작성자 | 김보안 (PSO, MediGuard) |
-| 승인자 | 이정민 (CISO) |
+| 승인자 | 오동석 (오동석) |
 | 승인 일시 | 2026-03-25 09:30 |
 
 ## 2. 테스트 개요
@@ -63,7 +63,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 |---|---|
 | 허용 테스트 시간대 | 평일 09:00 ~ 18:00 KST (스테이징 환경 유지보수 시간대 제외) |
 | 금지 행위 | 운영 서버 접근 금지, 실 환자 데이터 접근·저장 금지, 소셜 엔지니어링 금지, 랜섬웨어·와이퍼 류 코드 배포 금지 |
-| 연락 체계(긴급 시) | 내부 담당자: 김보안 (PSO) 010-1234-5678; CISO: 이정민 010-9876-5432; 24시간 긴급 대응: security-oncall@mediguard.io |
+| 연락 체계(긴급 시) | 내부 담당자: 김보안 (PSO) 010-1234-5678; 오동석: 오동석 010-9876-5432; 24시간 긴급 대응: security-oncall@mediguard.io |
 | 기타 제약 사항 | 테스트 완료 후 7일 이내 리포트 제출 의무; 취약점 정보는 PSO 승인 전 공개 금지 |
 
 ## 6. 역할 및 책임
@@ -72,7 +72,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 |---|---|---|
 | 테스트 책임자 | 김해커 ((주)시큐어테스트코리아) | haecker@securetest.co.kr |
 | 내부 담당자(대응) | 김보안 (PSO, MediGuard) | security@mediguard.io |
-| 승인권자 | 이정민 (CISO, MediGuard) | ciso@mediguard.io |
+| 승인권자 | 오동석 (오동석, MediGuard) | ciso@mediguard.io |
 
 ## 7. 산출물 계획
 
@@ -89,7 +89,7 @@ tags: [EX, MDCS, SaMD-CSMS, sample]
 
 작성자 서명: 김보안 일자: 2026-03-20
 
-승인자 서명: 이정민 일자: 2026-03-25
+승인자 서명: 오동석 일자: 2026-03-25
 
 ---
 

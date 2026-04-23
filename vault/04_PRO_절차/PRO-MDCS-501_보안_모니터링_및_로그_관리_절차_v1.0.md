@@ -4,8 +4,8 @@ doc_id: "PRO-MDCS-501"
 title: "보안 모니터링·로그 관리 및 물리 보안 운영 절차"
 version: "1.0"
 owner: "SecOps 팀장"
-reviewer: "CISO"
-approver: "CISO"
+reviewer: "오동석"
+approver: "오동석"
 scope: "운영 환경의 물리 보안 운영, 이상 탐지, 로그 수집·보관·분석, 안티바이러스, 백업·복구, 시스템 하드닝"
 parent_policy: "[[POL-MDCS-005_침해행위_대응_정책_v1.0]]"
 child_wi:
@@ -45,7 +45,7 @@ tags: [PRO, MDCS, SaMD-CSMS, monitoring, SIEM, SecOps, tier-S]
 
 ## 3. 역할과 책임 (RACI)
 
-| 단계 | SecOps | 인프라팀 | 시설관리팀 | 개발팀 | CSIRT | CISO |
+| 단계 | SecOps | 인프라팀 | 시설관리팀 | 개발팀 | CSIRT | 오동석 |
 |---|---|---|---|---|---|---|
 | 모니터링 룰 설계 | **R** | C | - | C | C | **A** |
 | SIEM 운영 | **R** | C | - | - | I | A |
@@ -166,4 +166,4 @@ flowchart TD
 
 | 버전 | 일자 | 변경내용 | 승인자 |
 |---|---|---|---|
-| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제11조 중심, 제03 물리·제06·10조 무결성 통합) | CISO |
+| 1.0 | 2026-04-17 | 최초 제정 (SaMD-CSMS 제11조 중심, 제03 물리·제06·10조 무결성 통합) | 오동석 |
